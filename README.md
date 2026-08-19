@@ -39,13 +39,16 @@ Building agent systems and an operating system other builders can clone. Turning
 | Project | What it is |
 |---|---|
 | [Mahip-AI-PMOS](https://github.com/mahip-kakan/Mahip-AI-PMOS) | Operating system for AI product work — persistent context, skills, discovery → spec → red-team |
+| [Mahip-PM-OS](https://github.com/mahip-kakan/Mahip-PM-OS) | PM operating system workspace — goals, projects, meetings, skills |
 | [fable-mode](https://github.com/mahip-kakan/fable-mode) | Staged agent skill with proof-backed verification |
 | [diagram-design](https://github.com/mahip-kakan/diagram-design) | Editorial diagrams as HTML + SVG — 13 types |
 | [ai-agent-playbook](https://github.com/mahip-kakan/ai-agent-playbook) | Agent use cases across industries and frameworks |
+| [agent-flow](https://github.com/mahip-kakan/agent-flow) | Module-based course for learning agent systems |
 | [my-ai-memory](https://github.com/mahip-kakan/my-ai-memory) | Markdown-first memory and weekly rituals for builders |
 | [indian-itr-assistant](https://github.com/mahip-kakan/indian-itr-assistant) | Domain skill with real filing logic, not a chatbot wrapper |
-
-Portfolio: [mahip-xp.vercel.app](https://mahip-xp.vercel.app/)
+| [Mahflow](https://github.com/mahip-kakan/Mahflow) | Offline speech-to-text desktop app |
+| [Work-Flow](https://github.com/mahip-kakan/Work-Flow) | Visual workflow studio |
+| [mahip-xp](https://mahip-xp.vercel.app/) | WinXP desktop portfolio |
 
 ---
 
