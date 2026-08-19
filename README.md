@@ -47,6 +47,9 @@ Building agent systems and an operating system other builders can clone. Turning
 | [indian-itr-assistant](https://github.com/mahip-kakan/indian-itr-assistant) | Domain skill with real filing logic, not a chatbot wrapper |
 | [Mahflow](https://github.com/mahip-kakan/Mahflow) | Offline speech-to-text desktop app |
 | [Work-Flow](https://github.com/mahip-kakan/Work-Flow) | Visual workflow studio |
+| [voice-gate](https://github.com/mahip-kakan/voice-gate) | Taste compiler — named slop tells, edit toward your samples, never invent a claim |
+| [source-to-skill](https://github.com/mahip-kakan/source-to-skill) | Notes, transcripts, decks → on-demand agent skill (work you own, not a book pirate) |
+| [job-search](https://github.com/mahip-kakan/job-search) | Local search OS — score, scout, tailor without fabricating, debrief into a corpus |
 
 ---
 
